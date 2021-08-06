@@ -1,5 +1,6 @@
 # Fine-Tuning BERT on IMDB Dataset :
 
+
 ## ***Training the Model*** :
 
 
@@ -18,7 +19,9 @@ CPU times: user 1h 13min 5s, sys: 4min 6s, total: 1h 17min 12s
 Wall time: 1h 17min 14s
 `
 
+
 ## ***Testing the Model*** :
+
 
 `
 Model Test Accuracy :   0.921
