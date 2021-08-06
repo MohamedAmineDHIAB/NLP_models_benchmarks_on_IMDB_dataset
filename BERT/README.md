@@ -12,11 +12,11 @@
 
 ## ***Testing the Model without training*** :
 
-**Uncompress the pre-trained model using :
+**Uncompress the pre-trained model using :**
 
 `cat compressed_model.gz* | zcat > best_model_state.bin`
 
-**Import it in your Python script using :
+**Import it in your Python script using :**
 
 
 `model = SentimentClassifier(len(class_names))`
