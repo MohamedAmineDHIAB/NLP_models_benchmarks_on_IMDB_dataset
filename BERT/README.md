@@ -1,5 +1,30 @@
 # Fine-Tuning BERT on IMDB Dataset :
 
+## ***Requirements*** :
+
+* Pandas
+* Seaborn
+* Matplotlib
+* Pytorch
+* transformers==3
+* numpy
+* collections
+
+## ***Testing the Model without training*** :
+
+**Uncompress the pre-trained model using :**
+
+`cat compressed_model.gz* | zcat > best_model_state.bin`
+
+**Import it in your Python script using :**
+
+
+`model = SentimentClassifier(len(class_names))`
+
+`model.load_state_dict(torch.load('best_model_state.bin'))`
+
+`model = model.to(device)`
+
 
 ## ***Training the Model*** :
 
