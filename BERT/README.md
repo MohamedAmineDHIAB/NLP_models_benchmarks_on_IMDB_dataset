@@ -47,3 +47,7 @@ Wall time: 1h 17min 14s`
 `
 Model Test Accuracy :   0.921
 `
+## ***Confusion Matrix***
+
+![image](https://user-images.githubusercontent.com/85687148/128558564-c6dc1640-5bc0-466d-883d-89b4e8c9e929.png)
+
