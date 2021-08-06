@@ -18,13 +18,13 @@ Uncompress the pre-trained model using :
 
 Import it in your Python script using :
 
-`
-model = SentimentClassifier(len(class_names))
 
-model.load_state_dict(torch.load('best_model_state.bin'))
+`model = SentimentClassifier(len(class_names))`
 
-model = model.to(device)
-`
+`model.load_state_dict(torch.load('best_model_state.bin'))`
+
+`model = model.to(device)`
+
 
 ## ***Training the Model*** :
 
