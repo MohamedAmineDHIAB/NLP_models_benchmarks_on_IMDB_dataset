@@ -4,13 +4,13 @@
 ## ***Training the Model*** :
 
 
-`Epoch 1/2
-----------
+`Epoch 1/2 :
+
 Train loss 0.316 accuracy 0.888
 Val   loss 0.283 accuracy 0.914
 
-Epoch 2/2
-----------
+Epoch 2/2 :
+
 Train loss 0.182 accuracy 0.955
 Val   loss 0.355 accuracy 0.920
 
