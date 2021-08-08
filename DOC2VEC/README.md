@@ -57,6 +57,13 @@ Model Test Accuracy :   0.800
 `
 ## ***Confusion Matrix***
 
-![image](https://user-images.githubusercontent.com/85687148/128643255-14292880-1898-4092-ba45-4752f76a1c8f.png)
+
+<p align="center">
+  <kbd>
+  <img width="460" height="250" src="https://user-images.githubusercontent.com/85687148/128643255-14292880-1898-4092-ba45-4752f76a1c8f.png">
+  </kbd>
+</p>
+
+
 
 
