@@ -60,7 +60,7 @@ Model Test Accuracy :   0.921
 
 <p align="center">
   <kbd>
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/85687148/128558564-c6dc1640-5bc0-466d-883d-89b4e8c9e929.png)">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/85687148/128644833-c7062d3b-a9ba-4a94-81ed-f4f9540d9e9d.png">
   </kbd>
 </p>
 
