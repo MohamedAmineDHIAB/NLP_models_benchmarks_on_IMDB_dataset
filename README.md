@@ -12,5 +12,7 @@ This is how the data head looks like :
 ![image](https://user-images.githubusercontent.com/85687148/128259390-89679a0d-629a-49fe-a97d-bd988cf0a4f0.png)
 
 
-## BERT + Dropout Layer + Fully Connected Layer : 92% Test Accuracy
+## BERT + Dropout Layer + Fully Connected Layer + Sigmoid : 92% Test Accuracy
+
+## DOC2VEC + Dropout Layer + Fully Connected Layer + Sigmoid : 80% Test Accuracy
 
