@@ -10,7 +10,9 @@ This REPO is for assessing multiple NLP models architecture on a sentiment analy
 This is how the data head looks like :
 
 <p align="center">
+  <kdb>
   <img width="460" height="250" src="https://user-images.githubusercontent.com/85687148/128259390-89679a0d-629a-49fe-a97d-bd988cf0a4f0.png">
+  </kdb>
 </p>
   
   
