@@ -1,4 +1,4 @@
-# Fine-Tuning BERT on IMDB Dataset :
+# Transfer-Learning with Doc2Vec and traning a Pytorch NN on IMDB Dataset :
 
 ## ***Requirements*** :
 
