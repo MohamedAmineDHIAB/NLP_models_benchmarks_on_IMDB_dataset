@@ -1,5 +1,8 @@
 # Fine-Tuning BERT on IMDB Dataset :
 
+![image](https://user-images.githubusercontent.com/85687148/128644652-26320c24-8745-44f5-beaa-d9a16995bc34.png)
+
+
 ## ***Requirements*** :
 
 * Pandas
