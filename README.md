@@ -20,7 +20,7 @@ This is how the data head looks like :
 
 
 
-## BERT + Dropout Layer + Fully Connected Layer + Sigmoid : 92% Test Accuracy
+### ***BERT + Dropout Layer + Fully Connected Layer + Sigmoid : 92% Test Accuracy***
 
-## DOC2VEC + Dropout Layer + Fully Connected Layer + Sigmoid : 80% Test Accuracy
+### ***DOC2VEC + Dropout Layer + Fully Connected Layer + Sigmoid : 80% Test Accuracy***
 
