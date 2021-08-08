@@ -22,6 +22,7 @@
 ## ***Getting the embeddings of the review texts using pre-trained Doc2Vec Model*** :
 
 1- download the doc2vec pretrained weights from the google drive link <a href="https://drive.google.com/file/d/1813Css0589E6_SE-VJyW7GDaDiZNG2SR/view?usp=sharing">doc2vec.bin </a> and put the binary file in `./data/`
+
 2- follow `embeddings_with_doc2vec.ipynb` to get a csv file containing a DataFrame with a column of the corresponding embeddings for each review.
 
 ## ***Training the Pytorch Neural*** :
