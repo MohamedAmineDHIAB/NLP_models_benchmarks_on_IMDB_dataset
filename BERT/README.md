@@ -1,9 +1,10 @@
 # Fine-Tuning BERT on IMDB Dataset :
 
-<p align="center"> 
-  
-  ![image](https://user-images.githubusercontent.com/85687148/128644652-26320c24-8745-44f5-beaa-d9a16995bc34.png) 
 
+<p align="center">
+  <kbd>
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/85687148/128644652-26320c24-8745-44f5-beaa-d9a16995bc34.png">
+  </kbd>
 </p>
 
 
