@@ -12,6 +12,7 @@ This is how the data head looks like :
 <p align="center"> 
   
   ![image](https://user-images.githubusercontent.com/85687148/128259390-89679a0d-629a-49fe-a97d-bd988cf0a4f0.png)  
+  
 </p>
 
 
