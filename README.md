@@ -17,10 +17,11 @@ This is how the data head looks like :
   
   
   
+## Results :
 
+For each model we have the following architecture and test accuracy :
 
+#### ***1. BERT + Dropout Layer + Fully Connected Layer + Sigmoid : 92% Test Accuracy***
 
-### ***BERT + Dropout Layer + Fully Connected Layer + Sigmoid : 92% Test Accuracy***
-
-### ***DOC2VEC + Dropout Layer + Fully Connected Layer + Sigmoid : 80% Test Accuracy***
+#### ***2. DOC2VEC + Dropout Layer + Fully Connected Layer + Sigmoid : 80% Test Accuracy***
 
