@@ -25,7 +25,7 @@
 
 2- follow `embeddings_with_doc2vec.ipynb` to get a csv file containing a DataFrame with a column of the corresponding embeddings for each review.
 
-## ***Training the Pytorch Neural*** :
+## ***Training the Pytorch Feed Forward Neural Network *** :
 
 
 
