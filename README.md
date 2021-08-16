@@ -25,3 +25,5 @@ For each model we have the following architecture and test accuracy :
 
 #### ***2. DOC2VEC + Dropout Layer + Fully Connected Layer + Sigmoid : 80% Test Accuracy***
 
+#### ***3. DOC2VEC + LSTM + Dropout Layer + Fully Connected Layer + Sigmoid : 80% Test Accuracy***
+
