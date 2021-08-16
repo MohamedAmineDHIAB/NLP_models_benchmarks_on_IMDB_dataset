@@ -25,7 +25,8 @@
 
 2- follow `embeddings_with_doc2vec.ipynb` to get a csv file containing a DataFrame with a column of the corresponding embeddings for each review.
 
-## ***Training the Pytorch Feed Forward Neural Network *** :
+
+## ***Training the Pytorch Feed Forward Neural Network*** :
 
 
 
@@ -66,4 +67,5 @@ Model Test Accuracy :   0.800
 
 
 
+## ***Training the Pytorch LSTM*** :
 
