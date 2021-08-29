@@ -20,4 +20,9 @@
   </kbd>
 </p>
 
+## Best Classifier :
+
+Using `TF-IDF` for text vectors embedding and `Logistic Regressor` for vectors binary classification we get the following test accuracy plot :
+
+![image](https://user-images.githubusercontent.com/85687148/131268929-aadd6909-6133-49cb-89d6-9093013dc039.png)
 
