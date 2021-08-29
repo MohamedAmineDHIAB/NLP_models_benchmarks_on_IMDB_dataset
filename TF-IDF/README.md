@@ -27,7 +27,7 @@ Using `TF-IDF` for text vectors embedding and `Logistic Regressor` for vectors b
 
 <p align="center">
   
-  <img width="400" height="600" src="https://user-images.githubusercontent.com/85687148/131269124-755d3757-e156-416b-a1ea-0a64ea513f5f.png">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/85687148/131269124-755d3757-e156-416b-a1ea-0a64ea513f5f.png">
   
 </p>
 
