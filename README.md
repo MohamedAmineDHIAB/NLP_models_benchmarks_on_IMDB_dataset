@@ -26,7 +26,7 @@ For each model we have the following architecture and test accuracy :
 
 #### ***2. -- TF-IDF + Logistic Regressor Classifier : 89% Test Accuracy***
 
-####    ***-- TF-IDF + SVM Classifier : 89% Test Accuracy***
+####     ***-- TF-IDF + SVM Classifier : 89% Test Accuracy***
 
 
 #### ***3. DOC2VEC + Dropout Layer + Fully Connected Layer + Sigmoid : 80% Test Accuracy***
