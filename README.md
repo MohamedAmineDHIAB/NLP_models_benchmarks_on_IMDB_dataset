@@ -24,10 +24,11 @@ For each model we have the following architecture and test accuracy :
 #### ***1. BERT + Dropout Layer + Fully Connected Layer + Sigmoid : 92% Test Accuracy***
 
 
-#### ***2.***  
+#### ***2.*** 
+
 <ul> 
-  <li> #### ***TF-IDF + Logistic Regressor Classifier : 89% Test Accuracy*** </li>
-  <li> #### ***TF-IDF + SVM Classifier : 89% Test Accuracy*** </li>
+####   <li> TF-IDF + Logistic Regressor Classifier : 89% Test Accuracy </li>
+#### <li> TF-IDF + SVM Classifier : 89% Test Accuracy </li>
 </ul> 
  
 
