@@ -21,26 +21,38 @@ This is how the data head looks like :
 
 For each model we have the following architecture and test accuracy :
 
-<ol>
-        <li>
-            <h4>BERT + Dropout Layer + Fully Connected Layer + Sigmoid : 92% Test Accuracy</h4>
-        </li>
-        <li>
-            <ul>
-                <li>
-                    <h4>TF-IDF + Logistic Regressor Classifier : 89% Test Accuracy</h4>
-                </li>
-                <li>
-                    <h4>TF-IDF + SVM Classifier : 89% Test Accuracy</h4>
-                </li>
-            </ul>
-        </li>
-        <li>
-            <h4>DOC2VEC + Dropout Layer + Fully Connected Layer + Sigmoid : 80% Test Accuracy</h4>
-        </li>
-        <li>
-            <h4>DOC2VEC + LSTM + Dropout Layer + Fully Connected Layer + Sigmoid : 78% Test Accuracy
-            </h4>
-        </li>
-</ol>
+  <table>
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>Model</th>
+                <th>Test Accuracy </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>BERT + Dropout Layer + Fully Connected Layer + Sigmoid</td>
+                <td>92%</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>
+                    <p>TF-IDF + Logistic Regressor Classifier</p>
+                    <p>TF-IDF + SVM Classifier</p>
+                </td>
+                <td>89%</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>DOC2VEC + Dropout Layer + Fully Connected Layer + Sigmoid</td>
+                <td>80%</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>DOC2VEC + BiLSTM + Dropout Layer + Fully Connected Layer + Sigmoid</td>
+                <td>78%</td>
+            </tr>
+        </tbody>
+    </table>
 
