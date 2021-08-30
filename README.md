@@ -33,7 +33,7 @@ For each model we have the following architecture and test accuracy :
             <tr>
                 <td>1</td>
                 <td>BERT + Dropout Layer + Fully Connected Layer + Sigmoid</td>
-                <td>92%</td>
+              <td><b>92%</b></td>
             </tr>
             <tr>
                 <td>2</td>
