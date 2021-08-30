@@ -21,7 +21,7 @@ This is how the data head looks like :
 
 For each model we have the following architecture and test accuracy :
 
-    <ol>
+<ol>
         <li>
             <h4>BERT + Dropout Layer + Fully Connected Layer + Sigmoid : 92% Test Accuracy</h4>
         </li>
@@ -42,5 +42,5 @@ For each model we have the following architecture and test accuracy :
             <h4>DOC2VEC + LSTM + Dropout Layer + Fully Connected Layer + Sigmoid : 78% Test Accuracy
             </h4>
         </li>
-    </ol>
+</ol>
 
