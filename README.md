@@ -21,26 +21,26 @@ This is how the data head looks like :
 
 For each model we have the following architecture and test accuracy :
 
-<ol>
+    <ol>
         <li>
-            <h2>BERT + Dropout Layer + Fully Connected Layer + Sigmoid : 92% Test Accuracy</h2>
+            <h4>BERT + Dropout Layer + Fully Connected Layer + Sigmoid : 92% Test Accuracy</h4>
         </li>
         <li>
             <ul>
                 <li>
-                    <h2>TF-IDF + Logistic Regressor Classifier : 89% Test Accuracy</h2>
+                    <h4>TF-IDF + Logistic Regressor Classifier : 89% Test Accuracy</h4>
                 </li>
                 <li>
-                    <h2>TF-IDF + SVM Classifier : 89% Test Accuracy</h2>
+                    <h4>TF-IDF + SVM Classifier : 89% Test Accuracy</h4>
                 </li>
             </ul>
         </li>
         <li>
-            <h2>DOC2VEC + Dropout Layer + Fully Connected Layer + Sigmoid : 80% Test Accuracy</h2>
+            <h4>DOC2VEC + Dropout Layer + Fully Connected Layer + Sigmoid : 80% Test Accuracy</h4>
         </li>
         <li>
-            <h2>DOC2VEC + LSTM + Dropout Layer + Fully Connected Layer + Sigmoid : 78% Test Accuracy
-            </h2>
+            <h4>DOC2VEC + LSTM + Dropout Layer + Fully Connected Layer + Sigmoid : 78% Test Accuracy
+            </h4>
         </li>
     </ol>
 
