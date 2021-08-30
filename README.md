@@ -27,7 +27,7 @@ For each model we have the following architecture and test accuracy :
 #### ***2.*** 
 
 <ul> 
-####   <li> TF-IDF + Logistic Regressor Classifier : 89% Test Accuracy </li>
+#### <li> TF-IDF + Logistic Regressor Classifier : 89% Test Accuracy </li>
 #### <li> TF-IDF + SVM Classifier : 89% Test Accuracy </li>
 </ul> 
  
